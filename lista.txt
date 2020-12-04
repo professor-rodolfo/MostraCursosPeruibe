@@ -1,1 +1,2 @@
-Após enviar o push para seu repositório, envie o Pull Request!
+﻿Mostra de Trabalhos da Etec de Peruíbe
+
