@@ -1,1 +1,8 @@
 Após enviar o push para seu repositório, envie o Pull Request!
+
+Mostra de Cursos ETEC de Peruíbe
+
+Cristhofer Yiang Chow
+
+Foi mostrado sobre os cursos da etec e, eu participei gravando um vídeo sobre
+nosso trabalho anual de aps chamado "Documento Visão"
