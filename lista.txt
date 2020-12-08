@@ -3,3 +3,5 @@ Após enviar o push para seu repositório, envie o Pull Request!
 mostras dos cursos etec de peruibe
 
 Paulo Coppe Nalin Dias
+
+foi demonstrado o que é ensinado nos cursos da etec
