@@ -3,3 +3,5 @@ Após enviar o push para seu repositório, envie o Pull Request!
 Mostra dos cursos da Etec de Peruíbe
 
 Enzo da Silva Passos
+
+Foi falado a respeito dos cursos da Etec de Peruíbe
