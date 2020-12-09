@@ -1,1 +1,7 @@
 Após enviar o push para seu repositório, envie o Pull Request!
+
+mostra dos cursos da etec de peruíbe
+
+Matheus fernandes Silva
+
+Foi mostrado na live sobre os cursos de ADM, JODI e DES
