@@ -1,3 +1,5 @@
 Após enviar o push para seu repositório, envie o Pull Request!
 
 mostra dos cursos da ETEC de Peruíbe
+
+Léo Lucas Santana Orsini
