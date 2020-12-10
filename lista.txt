@@ -1,3 +1,5 @@
 Após enviar o push para seu repositório, envie o Pull Request!
 
 Mostra dos cursos da Etec de Peruíbe
+
+Arthur Martins Chaves
