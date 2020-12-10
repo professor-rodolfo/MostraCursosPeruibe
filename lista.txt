@@ -3,3 +3,5 @@ Após enviar o push para seu repositório, envie o Pull Request!
 Mostra dos cursos da Etec de Peruíbe
 
 Arthur Martins Chaves
+
+Foi demostrado as matérias do nosso curso técnico, com os exemplos de alunos.
