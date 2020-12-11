@@ -1,1 +1,3 @@
-Após enviar o push para seu repositório, envie o Pull Request!
+Mostra de Trabalhos da Etec de Peruíbe: DES, MAD, JODI
+Pedro Augusto do Nascimento
+Houve várias apresentações de alunos, professores e ex alunos da etec mostrando os benefícios de estudar nessa escola. Mostrou tudo o que se aprende nos cursos disponíveis.
