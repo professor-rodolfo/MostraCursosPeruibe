@@ -1,1 +1,7 @@
 Após enviar o push para seu repositório, envie o Pull Request!
+
+Mostra de trabalhos da etec de Peruíbe
+
+Breno da Piedade Neves
+
+Foi mostrado o que é ensinado nos cursos técnicos através de exemplos de alunos.  
